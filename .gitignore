@@ -1,0 +1,10 @@
+
+hw3/result
+hw3/aug_image
+hw3/checkpoints
+hw3/tensorboard
+.ipynb*
+
+hw5/data
+hw5/glove
+hw5/models
