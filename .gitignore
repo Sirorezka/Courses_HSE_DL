@@ -8,3 +8,10 @@ hw3/tensorboard
 hw5/data
 hw5/glove
 hw5/models
+*.pdf
+*.pptx
+*.ckpt
+*.zip
+
+practice_v5/data/*
+practice_v5/glove.6B.50d.txt
