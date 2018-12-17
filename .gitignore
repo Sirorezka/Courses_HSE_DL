@@ -15,3 +15,8 @@ hw5/models
 
 practice_v5/data/*
 practice_v5/glove.6B.50d.txt
+
+
+hw4/data/*
+hw4/glove.6B.50d.txt
+hw4/models/*
